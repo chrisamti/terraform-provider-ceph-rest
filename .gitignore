@@ -166,3 +166,4 @@ terraform-provider-ceph*
 
 **/.terraform
 **/terraform.tfstate
+**/.terraform.lock.hcl
