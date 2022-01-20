@@ -1,4 +1,5 @@
 # Terraform provider plugin for ceph rest API
+## Supported resources
 
 ### Debugging the provider
 
@@ -39,7 +40,7 @@ Terraform will perform the following actions:
 
 Plan: 1 to add, 0 to change, 0 to destroy.
 ```
-
+Happy Debugging 🐛
 
 For more information about debugging a provider please
 see: [Debugger-Based Debugging](https://www.terraform.io/docs/extend/debugging.html#debugger-based-debugging)
